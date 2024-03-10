@@ -113,6 +113,7 @@ app.engine('ejs', ejsMate);
 //      next();
 //  })
 
+app.use("/", listingRouter);
 
 app.use("/listings", listingRouter);
 app.use("/listings/:id/reviews", reviewRouter);
