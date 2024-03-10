@@ -1,0 +1,10 @@
+Rajkanugala
+6RoJNd5Mx9En9Zwi
+
+
+
+mongodb+srv://Rajkanugala:<password>@cluster0.gtm5am5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+
+
+
+mongodb+srv://Rajkanugala:6RoJNd5Mx9En9Zwi@cluster0.gtm5am5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
