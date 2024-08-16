@@ -33,7 +33,8 @@ const LocalStrategy = require("passport-local");
 const User = require("./models/user.js");
 
 const store = MongoStore.create({
-    mongoUrl: db_url,
+    mongoUrl: mongodb+srv://rajkanugala5:8ZdNx1zcUzOQVqCw@cluster0.x122rpw.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+,
     crypto: {
         secret: process.env.SECRET
     },
